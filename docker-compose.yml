@@ -1,3 +1,4 @@
+# hi
 version: "3.9"
 services:
   redis:
